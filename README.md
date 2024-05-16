@@ -1,6 +1,3 @@
-Claro! Vou formatar o texto para que fique bonito e bem organizado no README do GitHub.
-
----
 
 # Ganhando Produtividade com Stream API e Java
 
